@@ -49,6 +49,33 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 - [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
 - [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
 
+
+<hr/>
+
+
+## Getting started with GitHub Apps [💎](https://github.com/Zi-Tao/getting-started-github-apps/blob/main/getting-started-with-github-apps.pdf)
+
+Step 1: [Install your first GitHub Apps](https://github.com/Zi-Tao/getting-started-github-apps/issues/1)
+
+Step 2: [Trigger the WIP app](https://github.com/Zi-Tao/getting-started-github-apps/pull/2)
+
+Step 3: [Add a webhook](https://github.com/Zi-Tao/getting-started-github-apps/pull/2)
+
+Step 4: [Remove WIP from the title](https://github.com/Zi-Tao/getting-started-github-apps/pull/2)
+
+Step 5: [Determine which event triggered the WIP app](https://github.com/Zi-Tao/getting-started-github-apps/pull/2)
+
+Step 6: [Merge the first pull request](https://github.com/Zi-Tao/getting-started-github-apps/pull/2)
+
+Step 7: [Open a pull request](https://github.com/Zi-Tao/getting-started-github-apps/pull/3)
+
+Step 8: [Customize the response of the Request Info app](https://github.com/Zi-Tao/getting-started-github-apps/pull/3)
+
+Step 9: [Identify API endpoints](https://github.com/Zi-Tao/getting-started-github-apps/pull/3)
+
+Step 10: [Open a blank issue](https://github.com/Zi-Tao/getting-started-github-apps/issues/4)
+
+
 -------
 
 # Major Companies
